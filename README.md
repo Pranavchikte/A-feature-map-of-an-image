@@ -83,5 +83,3 @@ You will see three output windows in sequence:
 * Convert this into a function and try using it on different images using OpenCV.
 
 ---
-
-Let me know when you want the README for your next script or if you want to turn this into a small project.
